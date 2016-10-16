@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="744.09448819dp"
+    android:height="1052.3622047dp"
+    android:viewportWidth="744.09448819"
+    android:viewportHeight="1052.3622047">
+
+    <path
+        android:fillColor="#000000"
+        android:strokeColor="#383838"
+        android:strokeWidth="3.68499994"
+        android:strokeLineJoin="round"
+        android:pathData="M 127.933701 64.781479 L 363.494891 64.781479 Q 419.009311 64.781479 419.009311 120.295899 L 419.009311 355.857089 Q 419.009311 411.371509 363.494891 411.371509 L 127.933701 411.371509 Q 72.419281 411.371509 72.419281 355.857089 L 72.419281 120.295899 Q 72.419281 64.781479 127.933701 64.781479 Z" />
+    <path
+        android:fillColor="#d7d7d7"
+        android:fillAlpha="0.91823898"
+        android:strokeColor="#d8d8d8"
+        android:strokeWidth="3.68499994"
+        android:strokeLineJoin="round"
+        android:pathData="M 144.6935,130.40354 l 2.54852,229.70143 c 0.12519,10.11497 -0.13847,20.5795
+12.26925,20.62341 l 47.97751,0.1698 0,9.84704 -59.92512,-0.49143 c
+-30.75395,-0.2522 -55.514419,-24.75942 -55.514419,-55.51441 l 0,-204.30972 c
+11.056779,-0.0716 34.317219,0.0297 52.644259,-0.0261 z" />
+    <path
+        android:fillColor="#d7d7d7"
+        android:fillAlpha="0.91823898"
+        android:strokeColor="#d8d8d8"
+        android:strokeWidth="3.68499994"
+        android:strokeLineJoin="round"
+        android:pathData="M 342.83081,130.40355 l -2.54852,229.70142 c -0.12519,10.11499 0.13847,20.5799
+-12.26925,20.62341 l -48.41329,0.1698 0,9.84704 60.3609,-0.49141 c
+30.75396,-0.25038 55.51443,-24.75944 55.51443,-55.51443 l 0,-204.3097 c
+-11.05679,-0.0716 -34.31723,0.0298 -52.64427,-0.0261 z" />
+    <path
+        android:fillColor="#202020"
+        android:fillAlpha="0.91823898"
+        android:strokeColor="#383838"
+        android:strokeWidth="1.01499999"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="0"
+        android:pathData="M 207.2025 82.057022 H 279.8405 V 154.695022 H 207.2025 V 82.057022 Z" />
+    <path
+        android:strokeColor="#445500"
+        android:strokeWidth="2.39999986"
+        android:pathData="M 209.08091,125.43527 l 17.84224,-12.6714 0,0 13.14746,10.4084 15.33872,-4.93025
+22.57798,16.31145" />
+
+    <!--
+    0,0 13.14746,10.4084 15.33872,-4.93025 22.57798,16.31145
+    -->
+</vector>
